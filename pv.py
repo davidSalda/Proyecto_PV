@@ -1,4 +1,5 @@
 import click
+
 from clients import comands as clients_commands
 
 CLIENTS_TABLE = '.clients.csv'
